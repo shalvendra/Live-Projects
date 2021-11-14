@@ -1,0 +1,44 @@
+.login-btn {
+    border-radius: 50%;
+}
+
+.login-form {
+    border-radius: 70px 10px !important;
+}
+
+.login-height {
+    border-radius: 20px;
+    margin-top: 135px;
+    margin-bottom: 87px;
+}
+
+.logo-head {
+    font-size: 40px;
+    font-weight: 600;
+    color: #7ebb6b;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.logo-desc {
+    line-height: 20px;
+}
+
+.logo-subtext {
+    color: #757575;
+    letter-spacing: .8px;
+    text-align: justify;
+}
+
+.btn-outline-success:hover {
+    color: white !important;
+}
+
+.alert {
+    padding: 5px;
+}
+
+.alert-dismissible .btn-close {
+    padding: 0.25rem 0rem;
+    margin: 2%;
+}
+
